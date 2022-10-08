@@ -1,0 +1,1 @@
+document.getElementById('sect1').style.color = 'red';
